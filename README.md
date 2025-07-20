@@ -26,6 +26,11 @@
 
 ---
 
+![Dashboard UI](./screenshots/dashboard.png)
+![Chat View](./screenshots/chat.png)
+
+---
+
 ## 📚 Table of Contents
 
 - [Overview](#overview)
@@ -113,7 +118,7 @@ yarn dev
 npm run dev
 ```
 
-The project will be available at: `http://localhost:3000`
+The project will be available at: `http://localhost:5173`
 
 ---
 
