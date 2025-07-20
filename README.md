@@ -26,7 +26,14 @@
 
 ---
 
+## 📸 Preview
+
+### Dashboard UI
+
 ![Dashboard UI](./screenshots/dashboard.png)
+
+### Chat View
+
 ![Chat View](./screenshots/chat.png)
 
 ---
